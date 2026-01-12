@@ -6,9 +6,9 @@ This repository contains a case study and analysis of the **Poly Network hack**,
 
 ##  Overview
 
-On **August 10, 2021**, the **Poly Network** — a cross-chain interoperability protocol — was exploited by an attacker who drained approximately **$610 million in digital assets** from the protocol across multiple blockchains, including Ethereum, Binance Smart Chain, and Polygon. :contentReference[oaicite:1]{index=1}
+On **August 10, 2021**, the **Poly Network** — a cross-chain interoperability protocol — was exploited by an attacker who drained approximately **$610 million in digital assets** from the protocol across multiple blockchains, including Ethereum, Binance Smart Chain, and Polygon. 
 
-Despite being one of the largest exploits in DeFi history, the majority of assets were returned to Poly Network after negotiations with the attacker. :contentReference[oaicite:2]{index=2}
+Despite being one of the largest exploits in DeFi history, the majority of assets were returned to Poly Network after negotiations with the attacker. 
 
 ---
 
